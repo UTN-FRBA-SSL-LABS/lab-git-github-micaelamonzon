@@ -24,7 +24,3 @@ int esPar(int n) {
     return (n % 2) == 0;
 }
 /* verifica si n es par */
-
-int dividir(int a, int b) {
-    return a - b; /* bug intencional */
-}
