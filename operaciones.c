@@ -20,6 +20,6 @@ int multiplicar(int a, int b) { // multiplicar funciona de manera tal que se pid
 
 /* ── esPar ────────────────────────────────────────────────────────────────── */
 
-int esPar(int n) {
+/* verifica si n es par */int esPar(int n) {
     return (n % 2) == 0;
 }
