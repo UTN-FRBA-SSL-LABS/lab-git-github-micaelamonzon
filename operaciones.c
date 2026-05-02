@@ -23,3 +23,4 @@ int multiplicar(int a, int b) { // multiplicar funciona de manera tal que se pid
 int esPar(int n) {
     return (n % 2) == 0;
 }
+/* verifica si n es par */
